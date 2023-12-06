@@ -15,7 +15,7 @@ from selenium.webdriver.chrome.options import Options
 from bs4 import BeautifulSoup
 
 # Set the path to the ChromeDriver (if not added to PATH)
-chrome_driver_path = "chromedriver"
+chrome_driver_path = "./chromedriver"
 chrome_binary_path = "./chrome-linux64/chrome"
 
 # Create a Service object
