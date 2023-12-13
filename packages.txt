@@ -9,3 +9,4 @@ libgdk-pixbuf2.0-0
 libgtk-3-0
 libgbm1
 libasound2
+libnss3

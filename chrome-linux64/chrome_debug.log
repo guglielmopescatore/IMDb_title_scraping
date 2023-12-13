@@ -251,3 +251,24 @@
 [1205/190959.906914:WARNING:angle_platform_impl.cc(49)] RendererVk.cpp:1962 (initialize): ANGLE VMA version: 2003000
 [1205/191001.357933:WARNING:sandbox_linux.cc(393)] InitializeSandbox() called with multiple threads in process gpu-process.
 [1205/191001.358016:WARNING:sandbox_linux.cc(393)] InitializeSandbox() called with multiple threads in process gpu-process.
+[1207/134118.489312:WARNING:angle_platform_impl.cc(49)] RendererVk.cpp:1962 (initialize): ANGLE VMA version: 2003000
+[1207/134118.505911:WARNING:sandbox_linux.cc(393)] InitializeSandbox() called with multiple threads in process gpu-process.
+[1207/134118.528931:ERROR:command_buffer_proxy_impl.cc(127)] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
+[1207/134305.673805:WARNING:angle_platform_impl.cc(49)] RendererVk.cpp:1962 (initialize): ANGLE VMA version: 2003000
+[1207/134305.679598:WARNING:sandbox_linux.cc(393)] InitializeSandbox() called with multiple threads in process gpu-process.
+[1207/134305.688393:ERROR:command_buffer_proxy_impl.cc(127)] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
+[1207/134305.822148:WARNING:angle_platform_impl.cc(49)] RendererVk.cpp:1962 (initialize): ANGLE VMA version: 2003000
+[1207/134305.827322:WARNING:sandbox_linux.cc(393)] InitializeSandbox() called with multiple threads in process gpu-process.
+[1207/134334.641155:WARNING:angle_platform_impl.cc(49)] RendererVk.cpp:1962 (initialize): ANGLE VMA version: 2003000
+[1207/134334.646926:WARNING:sandbox_linux.cc(393)] InitializeSandbox() called with multiple threads in process gpu-process.
+[1207/134334.654799:ERROR:command_buffer_proxy_impl.cc(127)] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
+[1209/170904.496550:WARNING:angle_platform_impl.cc(49)] RendererVk.cpp:1962 (initialize): ANGLE VMA version: 2003000
+[1209/170904.534839:WARNING:sandbox_linux.cc(393)] InitializeSandbox() called with multiple threads in process gpu-process.
+[1209/171530.397516:WARNING:angle_platform_impl.cc(49)] RendererVk.cpp:1962 (initialize): ANGLE VMA version: 2003000
+[1209/171530.403150:WARNING:sandbox_linux.cc(393)] InitializeSandbox() called with multiple threads in process gpu-process.
+[1209/171530.413558:ERROR:command_buffer_proxy_impl.cc(127)] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
+[1209/171530.544897:WARNING:angle_platform_impl.cc(49)] RendererVk.cpp:1962 (initialize): ANGLE VMA version: 2003000
+[1209/171530.551052:WARNING:sandbox_linux.cc(393)] InitializeSandbox() called with multiple threads in process gpu-process.
+[1209/171552.529840:WARNING:angle_platform_impl.cc(49)] RendererVk.cpp:1962 (initialize): ANGLE VMA version: 2003000
+[1209/171552.534643:WARNING:sandbox_linux.cc(393)] InitializeSandbox() called with multiple threads in process gpu-process.
+[1209/171552.543340:ERROR:command_buffer_proxy_impl.cc(127)] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
